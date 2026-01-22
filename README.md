@@ -3,16 +3,19 @@
 <div align="center">
 
 ```
-╭──────────────────────────────────────────╮
-│      📱 NULLSEC iOS SECURITY SUITE      │
-│      ═══════════════════════════════    │
-│                                          │
-│   🔐 iOS Security Analysis               │
-│   📊 App Forensics & Reverse Eng.        │
-│   🛡️  Jailbreak Detection Bypass         │
-│                                          │
-│          bad-antics | NullSec            │
-╰──────────────────────────────────────────╯
+ ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
+ ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
+▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
+▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
+▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
+░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+░ ░░   ░ ▒░░░▒░ ░ ░ ░ ░ ▒  ░░ ░ ▒  ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
+   ░   ░ ░  ░░░ ░ ░   ░ ░     ░ ░   ░  ░  ░     ░   ░        
+         ░    ░         ░  ░    ░  ░      ░     ░  ░░ ░      
+    ░                                               ░  ▄▄▄▄▄▄
+              📱 iOS SECURITY SUITE 📱
+       🔐 Security Analysis • 📊 Forensics • 🛡️ Bypass
+                 bad-antics | NullSec
 ```
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
