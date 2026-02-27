@@ -21,11 +21,11 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-iOS-black.svg)](https://apple.com/ios)
 [![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)](CHANGELOG.md)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://x.com/AnonAntics)
 
 **Professional iOS Security Research & Penetration Testing Tools**
 
-[Features](#features) • [Tools](#tools) • [Installation](#installation) • [Premium](#premium) • [Discord](https://discord.gg/killers)
+[Features](#features) • [Tools](#tools) • [Installation](#installation) • [Premium](#premium) • [X/Twitter](https://x.com/AnonAntics)
 
 </div>
 
@@ -106,7 +106,7 @@ python src/python/ipa_analyzer.py --help
 | Premium ⭐ | `NIOS-PRXX-XXXX-XXXX-XXXX` | Full toolkit access |
 | Enterprise 💎 | `NIOS-ENXX-XXXX-XXXX-XXXX` | Custom payloads + Support |
 
-**Get Premium Keys:** [discord.gg/killers](https://discord.gg/killers)
+**Get Premium Keys:** [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## ⚠️ Legal Disclaimer
 
@@ -131,7 +131,7 @@ This toolkit is designed for:
 **bad-antics** - Security Researcher & Tool Developer
 
 - GitHub: [@bad-antics](https://github.com/bad-antics)
-- Discord: [discord.gg/killers](https://discord.gg/killers)
+- Discord: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## 📄 License
 
