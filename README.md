@@ -21,7 +21,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-iOS-black.svg)](https://apple.com/ios)
 [![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)](CHANGELOG.md)
-[![X/Twitter](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2.svg)](https://x.com/AnonAntics)
 
 **Professional iOS Security Research & Penetration Testing Tools**
 
@@ -131,7 +131,7 @@ This toolkit is designed for:
 **bad-antics** - Security Researcher & Tool Developer
 
 - GitHub: [@bad-antics](https://github.com/bad-antics)
-- Discord: [x.com/AnonAntics](https://x.com/AnonAntics)
+- Twitter: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ## 📄 License
 
